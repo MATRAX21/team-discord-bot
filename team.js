@@ -261,7 +261,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : MATRIX ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` ASG ESPORTS Server *help`,"http://twitch.tv/ASG")
+client.user.setGame(` Team One Shot Server *help`,"http://twitch.tv/TOS")
 client.user.setStatus("online")
 });
 client.on("guildCreate", guild => {
